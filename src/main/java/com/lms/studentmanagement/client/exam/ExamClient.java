@@ -1,7 +1,7 @@
 package com.lms.studentmanagement.client.exam;
 
 import com.lms.studentmanagement.dto.exam.response.ExamDto;
-import com.lms.studentmanagement.dto.exam.request.ExamAttemptRequestDto;
+import com.lms.studentmanagement.dto.exam.response.ExamAttemptRequestDto;
 import com.lms.studentmanagement.dto.exam.response.ExamAttemptHistoryDto;
 
 public interface ExamClient {
